@@ -160,7 +160,7 @@ Out-of-Bag (OOB) Error: Случайный лес автоматически о�
 
 ![](images/C1-C4.png)
 
-![](images/C1.png)
+![](images/С1.png)
 
 ![](images/C2.png)
 
